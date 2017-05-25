@@ -1,0 +1,6 @@
+CSP Final
+Ethan Oliver
+//Insert Name into this Document on line 2
+
+//Insert url where you forked a repository
+https://github.com/punkueberfall/Magic8Ball/blob/master/Magic8Ball.py
